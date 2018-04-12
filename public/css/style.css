@@ -1,9 +1,13 @@
 body {
 	padding:50px;
-	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-family: 'Do Hyeon', sans-serif;
+	font-weight: 500;
 }
 h1 {
 	color: #1ba779;
+}
+p {
+	font: 'Courier New', monospace;
 }
 a {
 	color:#00B7FF;
