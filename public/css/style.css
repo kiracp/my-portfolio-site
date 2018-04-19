@@ -12,3 +12,22 @@ p {
 a {
 	color:#00B7FF;
 }
+.main-nav {
+  display: flex;
+  align-items: center;
+}
+.main-nav li {
+	list-style-type: none;
+}
+.main-nav li:first-child {
+  margin-right: auto;
+}
+.main-nav a {
+  margin: 10px;
+  color: #000;
+  display: block;
+  text-decoration: none;
+}
+.main-nav .logo {
+	/*background-image: url("../images/monkey-selfie-logo.png");*/
+}
