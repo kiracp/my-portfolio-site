@@ -10,11 +10,16 @@ p {
 	font: 'Courier New', monospace;
 }
 a {
-	color:#00B7FF;
+	/* color:#00B7FF; */
 }
 .main-nav {
   display: flex;
   align-items: center;
+
+}
+
+ul.main-nav {
+	padding-left: 0;
 }
 .main-nav li {
 	list-style-type: none;
